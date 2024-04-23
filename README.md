@@ -4,7 +4,7 @@
 
 <h1 align="left">📖 Materials</h1>
 
-* 📋 <a href="">Presentation</a>
+* 📋 <a href="https://docs.google.com/presentation/d/1pgkVqZvqq5UliIxUKwPUMQZcPeg0RCW51TZRGIZfaus/edit">Presentation</a>
 * 🆒 <a href="https://github.com/Garlic-Toasts/webauthn-frontend" target="_blank">Frontend</a>
 * 💻 <a href="https://github.com/Garlic-Toasts/webauthn-api" target="_blank">Backend</a>
 
