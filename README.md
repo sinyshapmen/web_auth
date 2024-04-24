@@ -1,6 +1,6 @@
 <h1>:atom: Hackaton MIFI 2024 Project</h1>
 
-<img width="500" alt="Screenshot 2024-04-23 at 10 49 07" src="https://github.com/Garlic-Toasts/web_auth/assets/163736717/60905cda-a980-4fe8-b1d0-fc526332f672">
+<img width="500" alt="Screenshot 2024-04-23 at 10 49 07" src="https://github.com/sinyshapmen/web_auth/assets/163736717/f2db074c-04b7-4dba-ad3a-9df8a7163c41">
 
 <h1 align="left">📖 Materials</h1>
 
